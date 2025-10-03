@@ -68,7 +68,7 @@ system("clear");
   // Área para exibição dos dados da cidade
 
 printf("Carta 1: \n""Estado: %c \n" "Código: %c%d \n" "Nome da cidade: %s \n" "População: %d \n" "Área: %.2f \n" "Pib: %.2f \n" "Numero de pontos turisticos: %d \n \n \n", 
-  letras1,  letras1, numeros1, cidade1, populacao1, kms1, pib1, tur1);
+  letras1, letras1, numeros1, cidade1, populacao1, kms1, pib1, tur1);
 printf("Carta 2: \n""Estado: %c \n" "Código: %c%d \n" "Nome da cidade: %s \n" "População: %d \n" "Área: %.2f \n" "Pib: %.2f \n" "Numero de pontos turisticos: %d \n \n \n", 
   letras2,  letras2, numeros2, cidade2, populacao2, kms2, pib2, tur2);
   /* aqui foi usado o comando printf para começar a exibir os resultados das leituras de dados anteriores
